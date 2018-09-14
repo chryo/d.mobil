@@ -17,7 +17,7 @@ d.mobil은 차량공유 비즈니스로써 차량 이용자와 차량 운전자�
 - 추천을 통한 운전자 등록제를 통해 운전자에 대한 신뢰도 제고
 
 ## 토큰이코노미
-![ride-sharing_economy](https://user-images.githubusercontent.com/43260207/45530626-a87f8e80-b826-11e8-8373-d4c54d552863.png)
+![ride-sharing_economy_corrected](https://user-images.githubusercontent.com/43260207/45548179-5e1a0400-b85e-11e8-9987-536e6a63bed6.png)
 
 ## 왜 블록체인?
 - 분산시스템을 통해 중개자 배제함으로써 수수료 인하
