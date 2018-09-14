@@ -14,3 +14,4 @@
 - 추천을 통한 운전자 등록제를 통해 운전자에 대한 신뢰도 제고
 
 ## 토큰이코노미
+![ride-sharing_economy](https://user-images.githubusercontent.com/43260207/45530626-a87f8e80-b826-11e8-8373-d4c54d552863.png)
